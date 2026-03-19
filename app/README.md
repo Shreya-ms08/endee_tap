@@ -35,7 +35,7 @@ Uploads -> extract -> chunk -> embed -> Endee upsert (metadata)
 
 ## Clone & Vector DB (WSL)
 ```powershell
-git clone https://github.com/Siddharth-cvhs/endee.git
+git clone https://github.com/Shreya-ms08/endee_tap.git
 cd endee/app
 wsl --install -d Ubuntu-22.04
 # in WSL, from repo root
